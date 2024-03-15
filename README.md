@@ -19,3 +19,7 @@ Código 2-Abrir Pop-Up no Centro da Página✨
 A palavra function é a forma da linguagem JavaScript indicar que estamos declarando uma função (criando a caixa mágica).
 Através do atributo left é possível definir a posição horizontal do elemento em relação a sua borda esquerda.O position é uma propriedade CSS que define como um elemento deve ser posicionado página, ou seja, no corpo do documento o body, essa propriedade ( position ) pode ser acompanhada de outras, tais como, top (en-US), right (en-US), bottom (en-US), and left (en-US), que determinam como ficará a localização final do objeto, permitindo seu deslocamento, como será apresentado adiante.
 Settings Sync é uma extensão do Visual Studio Code que permite realizar o backup e sincronização das suas configurações na ferramenta.✨
+
+# Links 💡
+[cod-input](/https://gabyalves01mg.github.io/codigo-JS/cod1.html) <br>
+[cod-pop-up](/https://gabyalves01mg.github.io/codigo-JS/cod2.html)
